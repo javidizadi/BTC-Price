@@ -1,3 +1,3 @@
 # BTC-Price
 
-### Simple Python Script To Get Bitcoin Price
+### Simple Python Script for Get Bitcoin Price
